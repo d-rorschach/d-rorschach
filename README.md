@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </head>
-<hr>
-
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/d-rorschach">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-rorschach&hide=java,html&title_color=00ff7f&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/d-rorschach">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=d-rorschach&show_icons=true&line_height=27&count_private=true&title_color=00ff7f&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="d-rorschach's GitHub Stats" />
-</a>
 
 <hr>
  <h3  align='center'> 📫 You can find me on :globe_with_meridians: </h3>
@@ -33,6 +24,3 @@ Here are some ideas to get you started:
  
 </p>
 
-
-<hr>
-<p><code><img height="25" src="https://komarev.com/ghpvc/?username=d-rorschach&color=red"></code></p>
